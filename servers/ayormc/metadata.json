@@ -33,9 +33,7 @@
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
-        "Prison",
-        "Skyblock",
-        "Survival"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.com/invite/p4HcXRfM4S",
